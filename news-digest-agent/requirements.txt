@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-openai
+langchain-community
+fastapi
+uvicorn
+requests
+python-dotenv
+newsapi-python
