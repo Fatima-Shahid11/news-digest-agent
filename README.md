@@ -7,11 +7,11 @@ An AI-powered news digest agent built with LangGraph, FastAPI, and Next.js
 ![LangGraph](https://img.shields.io/badge/LangGraph-purple?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-## 📌 What is this?
+## What is this?
 
 The Daily Digest is an AI agent that fetches real-time news based on your topics of interest, filters out irrelevant articles, writes a clean newspaper-style digest, and self-corrects if the quality is not good enough.
 
-## 🧠 How it works
+## How it works
 
 Built with **LangGraph** — a framework for building stateful AI agents. The agent follows this flow:
 
